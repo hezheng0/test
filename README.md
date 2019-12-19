@@ -1,6 +1,7 @@
 # kechengbiao
 
 > A Vue.js project
+> 基本都是基于vue+elementUI完成的后台，不是一个标准的后台系统，拥有拨号盘和可以课程表等等功能
 
 ## Build Setup
 
