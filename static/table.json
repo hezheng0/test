@@ -1,0 +1,112 @@
+{
+	"list": [
+		{
+			"id": 1,
+			"name": "电动车锂电池",
+			"price": 1999,
+			"info": "进口电芯48V38ah续航115公里赠4A充电器",
+			"type": "零配件",
+			"date": "2019-11-1",
+			"img": "https://img10.360buyimg.com/mobilecms/s250x250_jfs/t1/95232/2/3279/176700/5dde1099Ec60aae28/af136f7da717d34d.jpg"
+		},
+		{
+			"id": 2,
+			"name": "坦博尔2019新款情侣款工装羽绒服",
+			"price": 429,
+			"info": "曼哲白 170/92A",
+			"type": "服装",
+			"date": "2019-10-11",
+			"img": "https://img11.360buyimg.com/mobilecms/s250x250_jfs/t1/65853/11/16070/188828/5ddcd91eEccd4de6d/cb63888bbb623e54.jpg"
+		},
+		{
+			"id": 3,
+			"name": "加绒加厚外套男一套搭配帅气青年夹套装",
+			"price": 118,
+			"info": "加绒加厚外套+裤子",
+			"type": "服装",
+			"date": "2019-11-11",
+			"img": "https://img12.360buyimg.com/mobilecms/s250x250_jfs/t1/70478/8/16284/118002/5ddb92d3E7238fc4f/1316fb583d7bde72.jpg"
+		},
+		{
+			"id": 4,
+			"name": "彩金项链女18K金小蛮腰项链",
+			"price": 1011,
+			"info": "玫瑰金色标准版0.95-1.1g",
+			"type": "首饰",
+			"date": "2019-10-20",
+			"img": "https://img13.360buyimg.com/mobilecms/s250x250_jfs/t1/102586/9/2981/149647/5ddb73e8Efb9155d7/128c40000e041669.jpg"
+		},
+		{
+			"id": 4,
+			"name": "彩金项链女18K金小蛮腰项链",
+			"price": 1011,
+			"info": "玫瑰金色标准版0.95-1.1g",
+			"type": "首饰",
+			"date": "2019-10-20",
+			"img": "https://img13.360buyimg.com/mobilecms/s250x250_jfs/t1/102586/9/2981/149647/5ddb73e8Efb9155d7/128c40000e041669.jpg"
+		},
+		{
+			"id": 5,
+			"name": "加绒保暖运动男卫裤",
+			"price": 88,
+			"info": "买一送一加绒加厚",
+			"type": "服装",
+			"date": "2019-10-20",
+			"img": "https://img10.360buyimg.com/mobilecms/s250x250_jfs/t1/100006/34/2988/197561/5ddbbe92E40862e71/d1f9dcd733011b33.jpg"
+		},
+		{
+			"id": 6,
+			"name": "红天鹅项链",
+			"price": 1011,
+			"info": "项链5465400 红色",
+			"type": "首饰",
+			"date": "2019-10-20",
+			"img": "https://img11.360buyimg.com/mobilecms/s250x250_jfs/t1/91983/7/3144/119857/5ddcd066E531016da/d2ae2159a457cf4e.jpg"
+		},
+		{
+			"id": 7,
+			"name": "乌龙茶大红袍",
+			"price": 449,
+			"info": "小罐茶 茶叶 银罐20罐拼装",
+			"type": "食品",
+			"date": "2019-10-20",
+			"img": "https://img12.360buyimg.com/mobilecms/s250x250_jfs/t1/94514/31/4047/142032/5de4b8afE650a1333/995f506b44f94d9e.png"
+		},
+		{
+			"id": 8,
+			"name": "金夫人婚纱摄影",
+			"price": 4498,
+			"info": "2019网红爆款套系国内热门北京海南三亚大连云南丽江大理厦门婚纱照",
+			"type": "旅游",
+			"date": "2019-10-20",
+			"img": "https://img14.360buyimg.com/mobilecms/s250x250_jfs/t1/78523/23/10967/285126/5d89e015E6a8baf09/d364340fe9ce6609.jpg"
+		},
+		{
+			"id": 9,
+			"name": "Apple iPhone XR",
+			"price": 3499,
+			"info": "苹果x r国行手机双卡双待 白色 64G 全网通",
+			"type": "数码",
+			"date": "2019-10-20",
+			"img": "https://img13.360buyimg.com/mobilecms/s250x250_jfs/t1/92928/23/3607/75223/5de0c37cE63b50efe/9e2aa54b3e27348d.jpg"
+		},
+		{
+			"id": 10,
+			"name": "华为(HUAWEI)MateBook 13",
+			"price": 3999,
+			"info": "全面屏轻薄性能笔记本电脑 (AMD R5 8+512GB 2K 集显)银",
+			"type": "数码",
+			"date": "2019-10-20",
+			"img": "https://img10.360buyimg.com/mobilecms/s250x250_jfs/t1/88784/12/3897/139225/5de4b5ffEdb9cc90e/8e5bcbebda19691a.jpg"
+		}
+	],
+	"pageTotal": 11,
+	"typeList": [
+		{ "label": "数码", "value": "选项1" },
+		{ "label": "家用电器", "value": "选项2" },
+		{ "label": "服装", "value": "选项3" },
+		{ "label": "图书", "value": "选项4" },
+		{ "label": "食品", "value": "选项5" },
+		{ "label": "家居", "value": "选项6" }
+	]
+}
