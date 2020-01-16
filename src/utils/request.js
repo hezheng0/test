@@ -1,12 +1,9 @@
 import axios from "axios";
+export const BASE_URL = "http://localhost:3000";
 
 const service = axios.create({
-	// process.env.NODE_ENV === 'development' 来判断是否开发环境
-	// easy-mock服务挂了，暂时不使用了
-	// baseURL: 'https://www.easy-mock.com/mock/592501a391470c0ac1fab128',
-	timeout: 8000
-	// baseURL:
-	// 	" https://www.easy-mock.com/mock/5de60fea11e5727ff35b430c/exampletableData_copy/jsontable"
+	baseURL: BASE_URL,
+	timeout: 5000
 });
 
 service.interceptors.request.use(

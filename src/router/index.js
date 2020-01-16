@@ -16,6 +16,8 @@ import schedule from "../components/classSchedule";
 import table from "../page/table";
 import test from "../page/test1";
 import callTest from "../page/callTest";
+import callView from "../page/callView";
+import project from "../page/project1";
 
 const originalPush = Router.prototype.push;
 Router.prototype.push = function push(location, onResolve, onReject) {
@@ -86,6 +88,16 @@ export default new Router({
 					path: "/callTest",
 					component: callTest,
 					meta: { title: "拨号盘测试" }
+				},
+				{
+					path: "/callView",
+					component: callView,
+					meta: { title: "毕业设计" }
+				},
+				{
+					path: "/project",
+					component: project,
+					meta: { title: "录音界面测试" }
 				}
 			]
 		},
